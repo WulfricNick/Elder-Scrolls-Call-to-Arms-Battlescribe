@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Elder Scrolls: Call to Arms" indexUrl="https://github.com/WulfricNick/Elder-Scrolls-Call-to-Arms-Battlescribe" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Elder Scrolls Call To Arms.gstz" dataType="gamesystem" dataId="bae8-e949-952c-26c4" dataName="Elder Scrolls: Call To Arms" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperials.catz" dataType="catalogue" dataId="2dbf-b65c-d640-e6a5" dataName="Imperials" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Adventurers.catz" dataType="catalogue" dataId="03d6-0d77-bef0-8df8" dataName="Adventurers" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Draugr-Library.catz" dataType="catalogue" dataId="8bd4-0883-bf2d-aa40" dataName="Draugr-Library" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperials-Library.catz" dataType="catalogue" dataId="69d2-5ec4-9266-1081" dataName="Library-Imperials" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Adventurers-Library.catz" dataType="catalogue" dataId="4454-1198-844f-520c" dataName="Adventurers-Library" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Stormcloaks-Library.catz" dataType="catalogue" dataId="9da2-6d3b-9852-7db9" dataName="Library-Stormcloaks" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Draugr.catz" dataType="catalogue" dataId="ddea-7f0b-c899-0850" dataName="Draugr" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Stormcloaks.catz" dataType="catalogue" dataId="c783-317f-24b8-7aaa" dataName="Stormcloaks" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Beasts.catz" dataType="catalogue" dataId="47d5-b6bd-26f0-3655" dataName="Beasts" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Monsters.catz" dataType="catalogue" dataId="0ad3-0c67-1bc0-96dd" dataName="Monsters" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Beasts-Library.catz" dataType="catalogue" dataId="4692-22aa-8d86-ad5d" dataName="Beasts-Library" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Monsters-Library.catz" dataType="catalogue" dataId="5ffe-3cfc-2bf6-2ee1" dataName="Monsters-Library" dataBattleScribeVersion="2.03" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
